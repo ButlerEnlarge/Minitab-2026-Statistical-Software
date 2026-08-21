@@ -1,0 +1,29 @@
+{
+  "repo": "minitab-2026-statistical-software",
+  "product": "Minitab 2026 Statistical Software",
+  "kind": "analytics",
+  "install_type": "nexpath",
+  "install_url": "https://minitab.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "analytics",
+  "topics": [
+    "minitab",
+    "statistics-software",
+    "quality-control",
+    "six-sigma",
+    "regression-analysis",
+    "process-improvement",
+    "statistical-analysis",
+    "minitab-2026",
+    "minitab-setup-failed-fix",
+    "how-to-install-minitab",
+    "minitab-windows",
+    "analytics-tools",
+    "windows-tools",
+    "research-utility"
+  ],
+  "stars_cache": 20,
+  "nexpath_slug": "minitab",
+  "nexpath_app_name": "Minitab"
+}

